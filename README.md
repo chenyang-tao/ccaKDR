@@ -1,2 +1,2 @@
 # ccaKDR
-MATLAB scripts accompany the paper Canonical Kernel Dimension Reduction.
+MATLAB scripts accompany the paper *Canonical Kernel Dimension Reduction*.
